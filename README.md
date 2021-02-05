@@ -1,3 +1,6 @@
+# Settings
+
+```json
 {
   "breadcrumbs.enabled": true,
   "editor.formatOnPaste": true,
@@ -94,3 +97,4 @@
   "explorer.openEditors.visible": 0,
   "editor.snippetSuggestions": "top"
 }
+```
